@@ -32,16 +32,5 @@ Currently looking for **job opportunities in different IT sectors** to grow my c
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-5885AF?style=for-the-badge&logo=coreldraw&logoColor=white)
 
-### 📊 GitHub Stats
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr7841261-sketch&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr7841261-sketch&layout=compact&theme=tokyonight)
-
-### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/dr7841261-sketch/count.svg)
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakrastogi456/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_deepak_456/)
-
 ### 😄 Pronouns
 He / Him
