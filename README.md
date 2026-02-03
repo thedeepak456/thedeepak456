@@ -13,8 +13,8 @@ Currently looking for **job opportunities in different IT sectors** to grow my c
 - Modern **UI/UX tools** like Figma and Adobe XD  
 
 ### 💬 Ask me about
-- **Web Development:** HTML, CSS, JavaScript, AngularJS, Bootstrap, PHP, MySQL  
-- **Programming:** Python, C  
+- **Web Development:** HTML, CSS, JavaScript, AngularJS, Jquery, AJax Bootstrap, PHP, MySQL  
+- **Programming:** Python(Numpy,panda, matplot and etc.), C, C++
 - **UI/UX Design:** Figma, Adobe XD, Photoshop, CorelDRAW  
 - Mentoring students in building websites and projects  
 
